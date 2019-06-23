@@ -1,0 +1,50 @@
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\bin\Debug\KBC GAME.pdb
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.exe
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.KBC_GAME.resources
+c:\users\it solution\documents\visual studio 2010\Projects\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\iT solution\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+F:\KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe.config
+F:\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.exe
+F:\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+G:\ \KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe.config
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.exe
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+G:\ \KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe
+G:\ \KBC GAME\KBC GAME\bin\Debug\KBC GAME.pdb
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+G:\ \KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.csproj.GenerateResource.Cache
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\bin\Debug\KBC GAME.exe
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.csprojResolveAssemblyReference.cache
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+C:\Users\aabi\Desktop\KBC GAME\KBC GAME\obj\x86\Debug\KBC GAME.csproj.GenerateResource.Cache
+C:\Users\aabi\Desktop\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb

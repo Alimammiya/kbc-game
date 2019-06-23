@@ -1,0 +1,87 @@
+C:\Users\aabi\Desktop\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\aabi\Desktop\quiz game\KBC GAME\bin\Debug\KBC GAME.exe
+C:\Users\aabi\Desktop\quiz game\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csprojResolveAssemblyReference.cache
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+C:\Users\aabi\Desktop\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csproj.GenerateResource.Cache
+C:\Users\aabi\Documents\my stuff\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\aabi\Documents\my stuff\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\aabi\Documents\my stuff\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\bin\Debug\KBC GAME.exe
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csprojResolveAssemblyReference.cache
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+C:\Users\aabi\Documents\web work\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csproj.GenerateResource.Cache
+C:\Users\aabi\Documents\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\aabi\Documents\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\aabi\Documents\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+G:\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+G:\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+G:\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+G:\quiz game\KBC GAME\bin\Debug\KBC GAME.exe
+G:\quiz game\KBC GAME\bin\Debug\KBC GAME.pdb
+G:\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csprojResolveAssemblyReference.cache
+G:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+G:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+G:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+G:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+G:\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csproj.GenerateResource.Cache
+D:\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+D:\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+D:\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+D:\quiz game\KBC GAME\bin\Debug\KBC GAME.exe
+D:\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csprojResolveAssemblyReference.cache
+D:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+D:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+D:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+D:\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+D:\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csproj.GenerateResource.Cache
+D:\quiz game\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\Sharry\Desktop\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\Sharry\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\Sharry\Desktop\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\bin\Debug\KBC GAME.exe
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csprojResolveAssemblyReference.cache
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+C:\Users\jawwad\Downloads\quiz-game\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csproj.GenerateResource.Cache
+E:\Mawaat\InProgress\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+E:\Mawaat\InProgress\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+E:\Mawaat\InProgress\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\bin\Debug\KBC GAME.exe
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\bin\Debug\KBC GAME.pdb
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csprojResolveAssemblyReference.cache
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form1.resources
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.KBC.resources
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Form3.resources
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\KBC_GAME.Properties.Resources.resources
+C:\Users\Rihan\Downloads\New folder\quiz game\KBC GAME\obj\x86\Debug\Quiz Challange.csproj.GenerateResource.Cache
+C:\Users\Rihan\Downloads\Compressed\quiz game\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\Rihan\Downloads\Compressed\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\Rihan\Downloads\Compressed\quiz game\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\Rihan\Downloads\Compressed\kbc complete\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\Rihan\Downloads\Compressed\kbc complete\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\Rihan\Downloads\Compressed\kbc complete\KBC GAME\obj\x86\Debug\KBC GAME.pdb
+C:\Users\Rihan\Downloads\Compressed\complets\kbc complete\KBC GAME\bin\Debug\KBC GAME.exe.config
+C:\Users\Rihan\Downloads\Compressed\complets\kbc complete\KBC GAME\obj\x86\Debug\KBC GAME.exe
+C:\Users\Rihan\Downloads\Compressed\complets\kbc complete\KBC GAME\obj\x86\Debug\KBC GAME.pdb
