@@ -6,8 +6,4 @@ and ide is Visual Studion
 
 
 
-http://technical-education.com/
-This is my websites 
-plz visit it 
-and share your feedback..
-Thank you
+http://technical-education.com/ , This is my websites, plz visit it , and share your feedback.., Thank you
